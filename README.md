@@ -1,4 +1,4 @@
-# Android-ViewPager-Carousel-UI
+# ViewPagerCarousel
 
 ### ViewPager Carousel can be used as Top Level Navigation or as a Image / Video Gallery View
 
