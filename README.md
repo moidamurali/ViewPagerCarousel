@@ -4,8 +4,8 @@
 
 
 <!--- <a href="https://imgflip.com/gif/2557e5"><img src="https://i.imgflip.com/2557e5.gif" title="made at imgflip.com"/></a> --->
-this is for screenshot ![Screenshot](Screenshot_New.png)
-this is for screenshot ![Screenshot](view_pager.webm)
+<!--- this is for screenshot ![Screenshot](Screenshot_New.png) --->
+this is for screenshot ![Screenshot](Gliffy_Image.gif)
 ## Getting Started
 
 ### setup pager in layout.xml:
