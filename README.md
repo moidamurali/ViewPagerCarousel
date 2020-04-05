@@ -4,7 +4,7 @@
 
 
 <!--- <a href="https://imgflip.com/gif/2557e5"><img src="https://i.imgflip.com/2557e5.gif" title="made at imgflip.com"/></a> --->
-this is for screenshot ![Screenshot](Screenshot.png)
+this is for screenshot ![Screenshot](Screenshot_New.png)
 this is for screenshot ![Screenshot](view_pager.webm)
 ## Getting Started
 
