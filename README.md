@@ -3,8 +3,9 @@
 ### ViewPager Carousel can be used as Top Level Navigation or as a Image / Video Gallery View
 
 
-<a href="https://imgflip.com/gif/2557e5"><img src="https://i.imgflip.com/2557e5.gif" title="made at imgflip.com"/></a>
-<!--- this is for screenshot ![Screenshot](Screenshot.png) --->
+<!--- <a href="https://imgflip.com/gif/2557e5"><img src="https://i.imgflip.com/2557e5.gif" title="made at imgflip.com"/></a> --->
+this is for screenshot ![Screenshot](Screenshot.png)
+this is for screenshot ![Screenshot](view_pager.webm)
 ## Getting Started
 
 ### setup pager in layout.xml:
