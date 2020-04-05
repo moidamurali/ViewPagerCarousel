@@ -9,16 +9,16 @@
 
 ### setup pager in layout.xml:
 ```
-<k.k.sharma.corouselpagerkk.KKViewPager xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/kk_pager"
+<com.ramsoft.viewswipe.CustomViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+         android:id="@+id/custom_view_pager"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" 
+        android:layout_height="match_parent"
        />
 ```
 ### setup pager in you Fragment or Activity :
 ```
-mPager = (KKViewPager) findViewById(R.id.kk_pager);
-mPager.setAdapter(new TestFragmentAdapter(getSupportFragmentManager(),
+ mPager = (CustomViewPager) findViewById(R.id.custom_view_pager);
+mPager.setAdapter(new ItemFragmentAdapter(getSupportFragmentManager(),
                 MainActivity.this, CONTENT2));
 ```
 
