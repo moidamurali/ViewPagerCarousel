@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:1-38:12
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:1-38:12
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:1-38:12
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:1-38:12
+MERGED from [com.android.support:design:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/e5d96a6a76dd445d1976ea0836c382f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/c6b959cda7ebe13bf315a1313d4e9d12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/f2eda082c3f6908d32c607a1fc43f642/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/cb8193516523732a8e0e4521633725f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/1e420394abb1de8a0c0f0ddb789b5353/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/e748157404e194793f8ef3a7900c5825/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/663b3955be0472bdf622f6db7e81a0b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/c8c3692ae14f80fabd3f027f61b49ed8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e61105456da16327cc3700bbab66d62d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/21c34493c9fd82247e65297d8b8fd20b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/5329b2a733a8ab09d8558eae5870a6cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/43effde5e948de78c964fa493feb3d69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/17a1dd1aff0fb2bb111e186db80bf59f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:1-38:12
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:1-38:12
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:1-38:12
+	package
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:8:5-36
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:10:5-30
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:7:11-69
+	android:versionCode
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:9:5-28
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:design:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/e5d96a6a76dd445d1976ea0836c382f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/e5d96a6a76dd445d1976ea0836c382f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/c6b959cda7ebe13bf315a1313d4e9d12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/c6b959cda7ebe13bf315a1313d4e9d12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/f2eda082c3f6908d32c607a1fc43f642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/f2eda082c3f6908d32c607a1fc43f642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/cb8193516523732a8e0e4521633725f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/cb8193516523732a8e0e4521633725f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/1e420394abb1de8a0c0f0ddb789b5353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/1e420394abb1de8a0c0f0ddb789b5353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/e748157404e194793f8ef3a7900c5825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/e748157404e194793f8ef3a7900c5825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/663b3955be0472bdf622f6db7e81a0b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/663b3955be0472bdf622f6db7e81a0b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/c8c3692ae14f80fabd3f027f61b49ed8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/c8c3692ae14f80fabd3f027f61b49ed8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e61105456da16327cc3700bbab66d62d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e61105456da16327cc3700bbab66d62d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/21c34493c9fd82247e65297d8b8fd20b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/21c34493c9fd82247e65297d8b8fd20b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/5329b2a733a8ab09d8558eae5870a6cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/5329b2a733a8ab09d8558eae5870a6cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/43effde5e948de78c964fa493feb3d69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/43effde5e948de78c964fa493feb3d69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/17a1dd1aff0fb2bb111e186db80bf59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/17a1dd1aff0fb2bb111e186db80bf59f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:12:5-14:41
+	android:targetSdkVersion
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:14:9-38
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:13:9-35
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:16:5-36:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:20:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:18:9-43
+	android:icon
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:17:9-36
+	android:theme
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:21:9-73
+activity#com.ramsoft.viewswipe.MainActivity
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:25:13-45
+	android:hardwareAccelerated
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:23:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.ramsoft.viewswipe.DetailViewActivity
+ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/muralimohan/Downloads/ViewPagerCarousel/app/src/main/AndroidManifest.xml:33:13-68
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/muralimohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d31439c82f2758dbef346848e7134506/AndroidManifest.xml:26:13-58

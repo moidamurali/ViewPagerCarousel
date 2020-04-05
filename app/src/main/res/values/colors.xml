@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue">#FF33E5B5</color>
+
+    <color name="light_gray">#9AA5A2</color>
+    <color name="light_green">#037E5E</color>
+    <color name="light_red">#F14B64</color>
+    <color name="light_ceyon">#EFB063</color>
+    <color name="light_pink">#DF758A</color>
+    <color name="light_blue">#7A99E8</color>
+    <color name="light_yellow">#E8DC6F</color>
+    <color name="light_purple">#9F73ED</color>
+
+</resources>
